@@ -1,2 +1,1 @@
-# rsschool-cv
-CV
+https://eskenzzo.github.io/rsschool-cv/
